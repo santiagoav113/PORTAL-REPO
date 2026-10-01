@@ -1,0 +1,23 @@
+# Logs y archivos temporales
+*.log
+*.tmp
+
+# Archivos generados/locales
+ldbinsp0_1.txt
+
+# IDE
+.vscode/
+.idea/
+
+# Sistema operativo
+.DS_Store
+Thumbs.db
+
+# Java
+*.class
+target/
+build/
+
+# Variables/configuración sensible
+.env
+.env.*
