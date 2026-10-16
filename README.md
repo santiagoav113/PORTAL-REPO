@@ -18,5 +18,3 @@ Usa ramas y commits para organizar los cambios. Antes de subir archivos, comprue
 
 - Meta4 / Cegid PeopleNet
 - JSP (según la descripción del proyecto)
-
-> La lista describe el ámbito del repositorio; el código correspondiente no está presente en el estado actual.
